@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 24a2c5a9d3db72247b87a8e91d566d56
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FREELAH
+  fontNames:
+  - FREELAH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: be1ad3f943ae3b341981ee51373eeb6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
